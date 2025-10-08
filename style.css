@@ -161,6 +161,7 @@ button:hover {
 }
 
 .skill:hover {
+  cursor:pointer;
   background-color: #131818;
   box-shadow: 0 8px 20px rgba(0, 255, 255, 1);
   border-radius: 6px;
@@ -298,3 +299,4 @@ button:hover {
     padding: 12px;
   }
 }
+
